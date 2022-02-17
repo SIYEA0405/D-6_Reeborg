@@ -23,3 +23,5 @@ while not at_goal():
                 move()
         elif wall_on_right() and wall_in_front():
             turn_left()
+
+
